@@ -1,17 +1,13 @@
 # ⚡ Guía Maestra & Laboratorio Práctico de Git y Control de Versiones (`zmgit`)
 
 <p align="center">
-  <img src="./assets/portada_git_zedmous.png" alt="Portada Oficial Git Control de Versiones — ZEDMOUS.DEV" width="520" />
-</p>
-
-<p align="center">
-  <a href="https://zedmous.netlify.app/assets/docs/guia_git_zedmous.pdf"><img src="https://img.shields.io/badge/📄_Descargar_Guía_Maestra_PDF-ZEDMOUS.DEV-ef4444?style=for-the-badge" alt="Guía PDF" /></a>
+  <a href="https://drive.google.com/file/d/1pqDhMBxEwxNdv6udG94lPzRKoBFnw9cI/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Ver_Guía_Maestra_PDF_(Google_Drive)-ZEDMOUS.DEV-ef4444?style=for-the-badge" alt="Guía PDF" /></a>
   <a href="https://zedmous.netlify.app"><img src="https://img.shields.io/badge/Portafolio-zedmous.netlify.app-38bdf8?style=for-the-badge" alt="Portafolio" /></a>
   <img src="https://img.shields.io/badge/Cátedra-IUJO_&_Open_Source-a855f7?style=for-the-badge" alt="IUJO" />
 </p>
 
 > **Autoría & Cátedra:** **Ing. Eduardo Nieves (`Zedmous`)** — Arquitecto de Software & Matemático  
-> **Guía Oficial en PDF (7 Páginas):** [`docs/Guia_Maestra_Git_Control_de_Versiones_Zedmous.pdf`](./docs/Guia_Maestra_Git_Control_de_Versiones_Zedmous.pdf) | [Ver en línea en `zedmous.netlify.app`](https://zedmous.netlify.app/assets/docs/guia_git_zedmous.pdf)
+> **Guía Oficial en PDF (7 Páginas en Google Drive):** [Abrir Guía Maestra de Git y Control de Versiones (PDF)](https://drive.google.com/file/d/1pqDhMBxEwxNdv6udG94lPzRKoBFnw9cI/view?usp=sharing)
 
 ---
 

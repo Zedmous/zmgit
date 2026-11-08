@@ -21,3 +21,4 @@ assert.strictEqual(calc.modulo(10, 3), 1, "Error en calc.modulo(10, 3)");
 assert.strictEqual(calc.obtenerHistorial().length, 2, "El historial debe registrar 2 operaciones");
 
 console.log("✅ [OK] Todas las pruebas pasaron correctamente. El repositorio está libre de conflictos.");
+
