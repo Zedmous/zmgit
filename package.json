@@ -1,12 +1,25 @@
 {
-  "name": "proyecto",
-  "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
+  "name": "zmgit",
+  "version": "2.0.0",
+  "description": "Guía Maestra y Laboratorio Práctico de Git, Control de Versiones Distribuido, Flujo de Ramas y Resolución de Conflictos — ZEDMOUS.DEV (IUJO)",
+  "license": "MIT",
+  "author": "Ing. Eduardo Nieves (Zedmous) <https://zedmous.netlify.app>",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zedmous/zmgit.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "control-de-versiones",
+    "gitflow",
+    "zedmous",
+    "iujo"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "test": "node test.js"
   }
 }
